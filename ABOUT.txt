@@ -1,0 +1,10 @@
+========================================================================
+                       PROJECT INFORMATION CARD
+========================================================================
+Project Name : JA_File_Folder_Modify
+Tech Stack   : Flutter 3.x / Dart 3.x
+Managed By   : JA Auto Git
+Website      : https://jatechvn.github.io/
+------------------------------------------------------------------------
+Description  : A parallel file and folder deployment, replacement, and deletion tool featuring Aero/Acrylic blurs and single-instance enforcement.
+========================================================================
